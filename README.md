@@ -14,15 +14,26 @@ Features
 
 Assignment 1
 
+Assignment 4
+
  2 . Object-oriented structure and inheritance
  
 Assignment 2
 
+3. Array Lists
 
-4. Stacks and Queues: Implemented using arrays and linked lists.
+Assignment 3
+
+Assignment 4
+
+4. Hashmaps/PriorityQueue/Array
+
+Assignment 4
+
+6. Stacks and Queues: Implemented using arrays and linked lists.
   
-5. Binary Trees: Including binary search trees, AVL trees, and traversal algorithms (in-order, pre-order, post-order).
-6. Heaps: Max-heaps and min-heaps, along with heapsort implementation.
+7. Binary Trees: Including binary search trees, AVL trees, and traversal algorithms (in-order, pre-order, post-order).
+8. Heaps: Max-heaps and min-heaps, along with heapsort implementation.
 
 
 
