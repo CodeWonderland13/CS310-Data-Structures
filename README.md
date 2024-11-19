@@ -10,10 +10,14 @@ Gain hands-on experience with Java programming in the context of computational p
 
 Features
 
-1. Linked Lists: Singly linked lists, doubly linked lists, and circular linked lists.
-2. Stacks and Queues: Implemented using arrays and linked lists.
-3. Binary Trees: Including binary search trees, AVL trees, and traversal algorithms (in-order, pre-order, post-order).
-4. Heaps: Max-heaps and min-heaps, along with heapsort implementation.
+ 1. Linked Lists: Singly linked lists, doubly linked lists, and circular linked lists.
+ 
+ 2. Object-oriented structure and inheritance
+
+3. Stacks and Queues: Implemented using arrays and linked lists.
+  
+4. Binary Trees: Including binary search trees, AVL trees, and traversal algorithms (in-order, pre-order, post-order).
+5. Heaps: Max-heaps and min-heaps, along with heapsort implementation.
 
 
 
