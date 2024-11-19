@@ -1,3 +1,4 @@
+/* CS310 Assignment 1 - Linked List
 /**
  * Program to manage a list of course sections for one department
  * within a university.
