@@ -1,12 +1,10 @@
 /*
  * CS310 Assignment 3 - Arrays as Lists
  * This class represents a shelving system with the ability to add, remove and display items
- * 
  * @author Lindy Tatum
  * @version 1.0
  */
 package cs310datastructures;
-
 
 public class ShelvingSystem implements ShelvingOperations 
 {
