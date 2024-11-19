@@ -31,10 +31,14 @@ Assignment 4
 Assignment 4
 
 6. Stacks and Queues: Implemented using arrays and linked lists.
-  
-7. Binary Trees: Including binary search trees, AVL trees, and traversal algorithms (in-order, pre-order, post-order).
-8. Heaps: Max-heaps and min-heaps, along with heapsort implementation.
 
+Assignment 7
+
+Assignment 8
+  
+8. Binary Trees: Including binary search trees, AVL trees, and traversal algorithms (in-order, pre-order, post-order).
+
+Assignment 6
 
 
 Author
