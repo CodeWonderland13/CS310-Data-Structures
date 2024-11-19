@@ -1,5 +1,5 @@
 /*
- * CS310 Assignment 7 - Stacks and Image Manipulation
+ * CS310 Assignment 7 -Stacks and Image Manipulation
  */
 package cs310datastructures;
 
