@@ -1,5 +1,9 @@
 /*
  * CS310 Assignment 2 - Abstract Classes
+ * The VideoGame class represents a video game item stored on a shelf.
+ * It extends the ShelfItem abstract class and provides concrete implementations for methods to manage and display video game information.
+ * @author Lindy Tatum
+ * @version 1.0
  */
 package cs310datastructures;
 
@@ -12,7 +16,7 @@ public class VideoGame extends ShelfItem
     private boolean gamePlayed; // whether the game has ever been played
 
   
- // Default Constructor    
+ // Default Constructor 
     public VideoGame (){    
      //  super("");
        this.gameSystem ="";
